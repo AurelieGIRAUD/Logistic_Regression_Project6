@@ -8,7 +8,7 @@ At OpenClassrooms, learning is project-driven because that’s the fastest way t
 - Create dashboards and reports to facilitate the decision making process.
 - Apply key mathematical and statistical concepts for data analysis.
 
-## Data Wrangling Example: The State of Food Security and Nutrition in the World
+## Project 1 - Data Wrangling Example: The State of Food Security and Nutrition in the World
 Using the Database published by the FAO, state the world's current situation in terms of food security and malnutrition, highlight some specific countries, and suggest some explanations about what causes hunger. This includes the various steps of Data Wrangling such as:
 - Discovering and Gathering the appropriate data among the large database. If necessary, find additional resources to deepens the analysis.
 - Structuring the data into a valuable schema.
