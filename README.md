@@ -1,4 +1,4 @@
-# PROJECT 3: The State of Food Security and Nutrition in the World
+# Data Wrangling Example: The State of Food Security and Nutrition in the World
 
 ## Objectives
 Using the Database published by the FAO, state the world's current situation in terms of food security and malnutrition, highlight some specific countries, and suggest some explanations about what causes hunger. This includes the various steps of Data Wrangling such as:
@@ -8,7 +8,7 @@ Using the Database published by the FAO, state the world's current situation in 
 - Enriching the data by creating new key metrics.
 - Validating the data quality using check across the data or with external sources.
 
-Followed by:
+Followed by (not described in that notebook):
 - Statistical analysis.
 - Creation of Insights.
 
