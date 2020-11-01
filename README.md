@@ -23,7 +23,6 @@ For this project, we will use the following data based on the last year availabl
     - Import, Export, Domestic Supply...
 - Annual population:
     - Total number of inhabitants
-    - Total number of people undernourished 
     N.B: The Chinese provinces need to be removed from the global selection.
 
 Additionally, we will use the ISO corresponding table to enrich the analysis: 
