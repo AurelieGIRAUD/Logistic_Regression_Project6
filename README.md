@@ -23,3 +23,10 @@ FAOSTAT provides free access to food and agriculture data for over 245 countries
 Additionally, we will use the ISO corresponding table to enrich the analysis: 
 
 ➡️ https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes
+
+## Project 6 - Logistic Regression: Create a counterfeit banknote detection algorithm.
+Using a labelled dataset containing the characteristics of genuine banknotes, create a counterfeit banknote detection algorithm based on Logistic Regression.
+This project includes the following steps:
+- Exploratory Data Analysis (EDA) based on Univariate and Bivariate Analysis 
+- Principal Component Analysis (PCA)
+- Logistic Regression 
