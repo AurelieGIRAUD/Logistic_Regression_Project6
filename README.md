@@ -24,15 +24,13 @@ The Data Analyst degree include 9 projects to get through all the fundamentals o
 - Create informative data visualizations, dashboards and reports to facilitate the decision making process.
 
 
-Read more on this degree here: https://openclassrooms.com/en/dashboard/paths 
-
-
-<b> <i> This repository get through the key learnings related to the Project no.6: 
-"Create a counterfeit banknote detection algorithm based on Logistic Regression". <b> <i>
-  
+<b> Read more on this degree here: https://openclassrooms.com/en/dashboard/paths </b>
   
 
 ## Project 6 - Logistic Regression: Create a counterfeit banknote detection algorithm.
+
+This repository get through the key learnings related to the Project no.6.
+  
 Using a labelled dataset containing the characteristics of genuine banknotes, your role is to create a counterfeit banknote detection algorithm based on Logistic Regression. This project includes the following steps:
 
   1) Exploratory Data Analysis (EDA)
