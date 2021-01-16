@@ -3,7 +3,9 @@
 At OpenClassrooms, the learning process is project-driven because that’s the fastest way to become proficient and to get some hands-on experiences. 
 The Data Analyst degree include 9 projects to get through all the fundamentals of the Data Analyst Role:
 
-- Perform database searches using SQL queries to retrieve relevant data.
+- Perform database searches using SQL queries to retrieve relevant data:
+  - MySQL
+  - PostGreSQL
 
 - Data Wrangling: 
   - gathering, selecting, and transforming data into valuable and reliable source of information.
@@ -24,7 +26,7 @@ The Data Analyst degree include 9 projects to get through all the fundamentals o
 Read more on this degree here: https://openclassrooms.com/en/dashboard/paths 
 
 
-This repository get through the key learnings related to the Project no.6: 
+<b> This repository get through the key learnings related to the Project no.6: 
 "Create a counterfeit banknote detection algorithm based on Logistic Regression".
 
 ## Project 6 - Logistic Regression: Create a counterfeit banknote detection algorithm.
