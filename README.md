@@ -38,12 +38,12 @@ This repository get through the key learnings related to the Project no.6.
   - Univariate and Bivariate Analysis. 
   - Data Visualizations
   
-  2) Principal Component Analysis (PCA).
+  2) Principal Component Analysis (PCA)
   
   - Scree Plot Analysis
   - Loadings Plots
   - Scores Plots
   - Selection of the best component variable
   
-  3) Logistic Regression. 
+  3) Logistic Regression
 
