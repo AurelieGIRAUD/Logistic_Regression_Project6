@@ -31,7 +31,7 @@ The Data Analyst degree include 9 projects to get through all the fundamentals o
 
 This repository get through the key learnings related to the Project no.6.
   
-Using a labelled dataset containing the characteristics of genuine banknotes, your role is to create a counterfeit banknote detection algorithm based on Logistic Regression. This project includes the following steps:
+🎯 Using a labelled dataset containing the characteristics of genuine banknotes, your role is to create a counterfeit banknote detection algorithm based on Logistic Regression. This project includes the following steps:
 
   1) Exploratory Data Analysis (EDA)
   
@@ -39,6 +39,11 @@ Using a labelled dataset containing the characteristics of genuine banknotes, yo
   - Data Visualizations
   
   2) Principal Component Analysis (PCA).
+  
+  - Scree Plot Analysis
+  - Loadings Plots
+  - Scores Plots
+  - Selection of the best component variable
   
   3) Logistic Regression. 
 
