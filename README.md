@@ -45,5 +45,6 @@ This repository get through the key learnings related to the Project no.6.
   - Scores Plots
   - Selection of the best component variable
   
-  3) Logistic Regression
+  3) Classification based on unsupervised ML
+  4) Logistic Regression
 
