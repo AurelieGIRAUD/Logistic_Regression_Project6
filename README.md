@@ -43,8 +43,16 @@ This repository get through the key learnings related to the Project no.6.
   - Scree Plot Analysis
   - Loadings Plots
   - Scores Plots
-  - Selection of the best component variable
+  - Selection of the principal components
   
-  3) Classification based on unsupervised ML
+  3) Clustering with Kmean
+  
+  - Exploring the structure of the data with data visualizations
+  - Performances Analysis
+  
   4) Logistic Regression
+  
+  - Train and apply a logistic regression model to predict whether a banknotes is fake or genuine based on its characteristics
+  - Performances Analysis
+  - Wrap the model into a function
 
